@@ -1,8 +1,0 @@
-Thrift's auto-generated code for the multiplication service example
-==================================================================
- .. highlight:: java
-	:linenothreshold: 5
-
- .. literalinclude:: code_examples/MultiplicationService.java
-	:language: java
-	
